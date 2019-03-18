@@ -1,2 +1,2 @@
 # hello-world
-Hello first day here. Juast test.
+Hello first day here. Just test.
